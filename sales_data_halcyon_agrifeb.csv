@@ -1,0 +1,501 @@
+Date,Product Category,Sales Amount ($),Customer Region
+2022-05-14,Rubber Chemicals,23775,Europe
+2022-07-30,Synthetic Rubber,7238,South America
+2022-05-04,Natural Rubber,16413,Asia
+2022-02-15,Rubber Sheets,35740,Africa
+2022-05-18,Agricultural Tires,19623,South America
+2022-04-13,Synthetic Rubber,48947,Asia
+2022-08-08,Natural Rubber,35029,Asia
+2022-02-21,Agricultural Tires,10667,North America
+2022-05-14,Rubber Sheets,11054,Africa
+2022-06-02,Agricultural Tires,17760,North America
+2022-08-30,Natural Rubber,47545,Europe
+2022-09-03,Agricultural Tires,4312,North America
+2022-04-16,Rubber Chemicals,28524,North America
+2022-08-22,Agricultural Tires,27785,South America
+2022-04-29,Synthetic Rubber,27400,Asia
+2022-05-28,Synthetic Rubber,2105,Africa
+2022-05-11,Rubber Chemicals,6122,North America
+2022-05-15,Natural Rubber,7267,Africa
+2022-07-02,Synthetic Rubber,27639,North America
+2022-06-11,Rubber Sheets,12113,Europe
+2022-06-30,Synthetic Rubber,11089,North America
+2022-03-25,Synthetic Rubber,14418,South America
+2022-02-02,Natural Rubber,20619,Asia
+2022-04-29,Agricultural Tires,27946,Europe
+2022-09-24,Synthetic Rubber,13546,North America
+2022-07-08,Rubber Chemicals,25318,Africa
+2022-03-10,Agricultural Tires,35858,Europe
+2022-06-10,Rubber Sheets,4824,Europe
+2022-08-11,Natural Rubber,11287,North America
+2022-08-07,Rubber Sheets,9611,Europe
+2022-02-21,Agricultural Tires,38610,Africa
+2022-07-11,Agricultural Tires,16889,Europe
+2022-08-23,Agricultural Tires,41927,Africa
+2022-03-30,Rubber Sheets,14543,North America
+2022-02-22,Agricultural Tires,29246,Asia
+2022-09-24,Rubber Sheets,22850,Europe
+2022-04-30,Agricultural Tires,42105,Asia
+2022-03-21,Rubber Chemicals,617,Africa
+2022-09-07,Agricultural Tires,47185,Europe
+2022-03-31,Rubber Sheets,19435,South America
+2022-07-20,Synthetic Rubber,47577,Asia
+2022-09-08,Agricultural Tires,13734,Europe
+2022-08-07,Synthetic Rubber,38828,Asia
+2022-08-27,Rubber Chemicals,1346,Europe
+2022-02-15,Natural Rubber,11454,North America
+2022-08-09,Rubber Chemicals,14203,Asia
+2022-08-09,Agricultural Tires,48653,South America
+2022-07-25,Synthetic Rubber,47014,South America
+2022-08-09,Synthetic Rubber,23200,Africa
+2022-03-23,Rubber Sheets,32543,Europe
+2022-05-19,Synthetic Rubber,6969,Asia
+2022-03-27,Rubber Sheets,30605,Africa
+2022-04-05,Natural Rubber,42601,Asia
+2022-06-11,Agricultural Tires,26886,Europe
+2022-09-17,Rubber Sheets,49876,South America
+2022-03-23,Natural Rubber,46087,North America
+2022-06-15,Synthetic Rubber,37476,South America
+2022-02-21,Synthetic Rubber,39551,Africa
+2022-04-14,Natural Rubber,2548,North America
+2022-07-17,Synthetic Rubber,39501,Africa
+2022-02-18,Natural Rubber,13441,Europe
+2022-06-12,Rubber Sheets,45875,North America
+2022-04-30,Rubber Sheets,43033,Africa
+2022-04-01,Natural Rubber,2328,Europe
+2022-02-14,Rubber Sheets,2417,South America
+2022-09-30,Rubber Sheets,21118,Europe
+2022-02-09,Rubber Sheets,32754,Asia
+2022-05-01,Rubber Chemicals,40256,Europe
+2022-03-25,Agricultural Tires,47862,Europe
+2022-06-10,Synthetic Rubber,20628,Asia
+2022-04-25,Rubber Chemicals,46245,Africa
+2022-05-03,Rubber Sheets,509,Africa
+2022-05-22,Natural Rubber,17144,Europe
+2022-08-07,Rubber Sheets,22922,Asia
+2022-08-18,Agricultural Tires,10365,Asia
+2022-07-22,Rubber Sheets,2719,South America
+2022-02-08,Natural Rubber,40309,Africa
+2022-07-25,Agricultural Tires,5787,North America
+2022-03-07,Rubber Sheets,34887,Africa
+2022-08-25,Agricultural Tires,9012,Africa
+2022-04-22,Synthetic Rubber,1842,South America
+2022-07-14,Synthetic Rubber,43836,North America
+2022-03-22,Rubber Sheets,19716,South America
+2022-05-15,Agricultural Tires,28034,North America
+2022-06-12,Natural Rubber,14731,Europe
+2022-02-02,Rubber Sheets,32793,North America
+2022-06-14,Synthetic Rubber,27114,South America
+2022-03-26,Synthetic Rubber,36758,Africa
+2022-05-17,Rubber Sheets,28753,North America
+2022-02-04,Agricultural Tires,42578,North America
+2022-03-26,Synthetic Rubber,41252,Asia
+2022-09-09,Agricultural Tires,18488,Africa
+2022-08-10,Synthetic Rubber,31537,Europe
+2022-06-26,Synthetic Rubber,12719,South America
+2022-09-06,Rubber Chemicals,735,Europe
+2022-03-16,Synthetic Rubber,43429,Africa
+2022-07-12,Natural Rubber,2408,North America
+2022-08-21,Rubber Sheets,9067,North America
+2022-08-09,Rubber Sheets,36798,Africa
+2022-09-16,Agricultural Tires,5756,North America
+2022-02-14,Synthetic Rubber,19519,North America
+2022-05-06,Natural Rubber,8662,North America
+2022-03-20,Agricultural Tires,5915,South America
+2022-02-15,Rubber Chemicals,36659,South America
+2022-08-19,Agricultural Tires,44425,Asia
+2022-08-25,Agricultural Tires,6451,Europe
+2022-09-03,Synthetic Rubber,22352,Africa
+2022-08-09,Rubber Chemicals,8507,Africa
+2022-03-12,Agricultural Tires,42332,Africa
+2022-09-01,Natural Rubber,31023,Asia
+2022-08-27,Natural Rubber,23825,South America
+2022-09-25,Rubber Sheets,21704,Asia
+2022-04-23,Rubber Chemicals,16024,Africa
+2022-05-22,Rubber Chemicals,19782,Europe
+2022-03-25,Rubber Sheets,24430,North America
+2022-02-24,Agricultural Tires,577,South America
+2022-07-04,Rubber Chemicals,40845,South America
+2022-09-05,Natural Rubber,21111,Asia
+2022-08-07,Natural Rubber,17484,South America
+2022-06-04,Synthetic Rubber,14560,Africa
+2022-09-25,Rubber Chemicals,17949,Africa
+2022-03-13,Agricultural Tires,19020,Asia
+2022-07-07,Rubber Sheets,43803,Africa
+2022-02-15,Rubber Sheets,10010,Europe
+2022-03-17,Agricultural Tires,29787,Asia
+2022-04-06,Synthetic Rubber,28673,Europe
+2022-04-30,Rubber Sheets,40211,North America
+2022-04-12,Rubber Chemicals,12454,Europe
+2022-02-09,Synthetic Rubber,8304,North America
+2022-04-29,Rubber Chemicals,7065,North America
+2022-06-09,Natural Rubber,6484,Europe
+2022-09-24,Synthetic Rubber,22026,Asia
+2022-06-16,Rubber Sheets,37938,Africa
+2022-09-04,Synthetic Rubber,19074,Africa
+2022-04-04,Synthetic Rubber,9684,North America
+2022-06-19,Synthetic Rubber,19596,North America
+2022-04-22,Synthetic Rubber,2692,Asia
+2022-06-16,Rubber Chemicals,34516,South America
+2022-07-13,Natural Rubber,11746,Europe
+2022-07-13,Agricultural Tires,46058,North America
+2022-03-05,Synthetic Rubber,18881,Africa
+2022-06-03,Rubber Sheets,36955,Asia
+2022-02-05,Synthetic Rubber,27227,Europe
+2022-09-22,Rubber Sheets,4518,Asia
+2022-09-19,Rubber Chemicals,11802,Europe
+2022-03-13,Rubber Sheets,2470,Europe
+2022-02-28,Agricultural Tires,41657,North America
+2022-06-15,Natural Rubber,27702,Asia
+2022-08-20,Rubber Sheets,31610,Asia
+2022-04-13,Rubber Sheets,18086,Africa
+2022-02-12,Natural Rubber,25019,Africa
+2022-07-12,Agricultural Tires,31773,North America
+2022-03-05,Synthetic Rubber,22451,North America
+2022-03-20,Rubber Sheets,15874,South America
+2022-07-01,Natural Rubber,6288,Africa
+2022-04-03,Rubber Chemicals,5908,Europe
+2022-09-04,Natural Rubber,25553,Asia
+2022-03-09,Rubber Chemicals,9946,North America
+2022-05-10,Agricultural Tires,1422,Asia
+2022-07-22,Synthetic Rubber,33687,Asia
+2022-05-15,Natural Rubber,11289,South America
+2022-09-02,Rubber Sheets,32684,Africa
+2022-09-07,Agricultural Tires,1620,North America
+2022-03-07,Natural Rubber,44528,Asia
+2022-08-12,Rubber Sheets,32654,North America
+2022-09-15,Natural Rubber,17834,Europe
+2022-05-12,Rubber Chemicals,2836,South America
+2022-07-25,Natural Rubber,38641,Europe
+2022-08-25,Natural Rubber,2743,North America
+2022-06-11,Natural Rubber,19529,North America
+2022-02-01,Agricultural Tires,32765,Africa
+2022-02-05,Natural Rubber,37880,Asia
+2022-09-06,Rubber Sheets,47214,Asia
+2022-06-22,Rubber Chemicals,44372,Europe
+2022-05-14,Rubber Chemicals,46697,South America
+2022-02-27,Natural Rubber,24210,Asia
+2022-06-17,Agricultural Tires,29986,Africa
+2022-08-26,Agricultural Tires,6871,Europe
+2022-02-15,Rubber Sheets,6859,Europe
+2022-05-01,Natural Rubber,41131,Africa
+2022-03-14,Rubber Chemicals,36496,South America
+2022-06-04,Agricultural Tires,20603,Africa
+2022-08-24,Natural Rubber,14882,South America
+2022-07-29,Agricultural Tires,19255,Africa
+2022-04-04,Agricultural Tires,36159,Africa
+2022-05-07,Rubber Chemicals,4256,North America
+2022-09-19,Synthetic Rubber,21109,Europe
+2022-09-29,Rubber Sheets,49038,Africa
+2022-03-24,Rubber Sheets,16978,Africa
+2022-05-07,Rubber Chemicals,35942,Asia
+2022-06-12,Agricultural Tires,40166,Europe
+2022-09-10,Natural Rubber,10647,Asia
+2022-09-17,Agricultural Tires,34061,Europe
+2022-07-01,Rubber Chemicals,35384,Asia
+2022-09-19,Rubber Sheets,6279,Africa
+2022-09-25,Agricultural Tires,12798,Africa
+2022-06-23,Rubber Sheets,14653,North America
+2022-07-21,Natural Rubber,44379,Asia
+2022-03-01,Rubber Sheets,11289,South America
+2022-03-08,Rubber Sheets,44665,North America
+2022-02-13,Synthetic Rubber,13499,Asia
+2022-07-10,Synthetic Rubber,1314,Asia
+2022-04-12,Synthetic Rubber,49997,North America
+2022-08-06,Rubber Sheets,11041,Africa
+2022-04-27,Rubber Chemicals,25438,Asia
+2022-02-28,Rubber Sheets,2943,Africa
+2022-04-07,Rubber Chemicals,10957,North America
+2022-07-20,Rubber Chemicals,10880,Africa
+2022-03-17,Synthetic Rubber,8283,Europe
+2022-04-03,Agricultural Tires,44741,South America
+2022-08-04,Natural Rubber,17868,Asia
+2022-06-14,Synthetic Rubber,15828,South America
+2022-02-28,Synthetic Rubber,26715,Africa
+2022-02-28,Agricultural Tires,34095,Asia
+2022-05-19,Natural Rubber,27806,Africa
+2022-03-16,Rubber Sheets,20415,Europe
+2022-04-25,Rubber Sheets,40415,North America
+2022-03-02,Synthetic Rubber,37719,Asia
+2022-08-09,Natural Rubber,15843,Europe
+2022-04-16,Synthetic Rubber,46903,Europe
+2022-06-08,Rubber Chemicals,39227,Asia
+2022-05-03,Synthetic Rubber,626,Africa
+2022-09-05,Synthetic Rubber,28132,Europe
+2022-09-19,Rubber Sheets,42063,South America
+2022-08-09,Rubber Sheets,44909,Europe
+2022-09-13,Rubber Sheets,21030,Africa
+2022-06-09,Rubber Chemicals,40464,Africa
+2022-06-01,Rubber Sheets,44827,South America
+2022-02-27,Natural Rubber,3868,Europe
+2022-08-09,Agricultural Tires,4297,Africa
+2022-06-01,Natural Rubber,48382,Asia
+2022-05-27,Natural Rubber,14218,North America
+2022-08-24,Rubber Sheets,35060,North America
+2022-09-21,Agricultural Tires,11553,North America
+2022-02-03,Agricultural Tires,22616,Europe
+2022-05-14,Agricultural Tires,36744,South America
+2022-08-17,Rubber Chemicals,36685,Africa
+2022-08-19,Rubber Sheets,2145,Asia
+2022-07-05,Agricultural Tires,48023,Asia
+2022-06-17,Rubber Chemicals,19756,Europe
+2022-04-03,Synthetic Rubber,36340,North America
+2022-07-15,Synthetic Rubber,35122,Europe
+2022-09-13,Rubber Chemicals,37930,South America
+2022-03-23,Rubber Chemicals,39782,South America
+2022-09-22,Rubber Sheets,3208,Africa
+2022-07-22,Rubber Sheets,12194,Africa
+2022-07-02,Synthetic Rubber,10024,South America
+2022-08-26,Agricultural Tires,32380,South America
+2022-03-31,Synthetic Rubber,39724,South America
+2022-05-29,Agricultural Tires,37480,Europe
+2022-07-10,Agricultural Tires,32909,South America
+2022-05-07,Rubber Sheets,13724,Asia
+2022-09-04,Natural Rubber,41238,North America
+2022-09-21,Natural Rubber,25650,South America
+2022-07-30,Rubber Chemicals,34893,North America
+2022-05-24,Rubber Sheets,43582,Europe
+2022-04-03,Agricultural Tires,8473,North America
+2022-09-29,Natural Rubber,9077,Europe
+2022-08-05,Agricultural Tires,8570,Asia
+2022-03-24,Natural Rubber,9166,Europe
+2022-02-12,Natural Rubber,36868,Europe
+2022-03-11,Natural Rubber,7283,Africa
+2022-06-10,Rubber Sheets,46494,South America
+2022-06-11,Synthetic Rubber,42414,South America
+2022-05-24,Agricultural Tires,5471,Asia
+2022-05-12,Rubber Sheets,13990,Asia
+2022-05-24,Rubber Sheets,46219,South America
+2022-08-03,Rubber Sheets,45580,Africa
+2022-04-22,Rubber Sheets,2490,South America
+2022-08-06,Rubber Sheets,5799,Africa
+2022-05-24,Rubber Chemicals,46265,Asia
+2022-02-02,Agricultural Tires,20456,North America
+2022-06-10,Rubber Sheets,22859,Asia
+2022-09-08,Agricultural Tires,46740,Asia
+2022-03-26,Rubber Chemicals,37648,Europe
+2022-04-28,Rubber Chemicals,29234,Europe
+2022-09-17,Agricultural Tires,5257,Europe
+2022-09-12,Natural Rubber,19597,Europe
+2022-09-13,Synthetic Rubber,10895,Africa
+2022-06-09,Natural Rubber,16741,South America
+2022-06-27,Natural Rubber,38856,North America
+2022-06-06,Natural Rubber,28196,Asia
+2022-06-10,Rubber Sheets,5444,Africa
+2022-03-25,Rubber Chemicals,46663,North America
+2022-07-22,Natural Rubber,20316,Africa
+2022-09-06,Rubber Chemicals,37511,Africa
+2022-07-10,Agricultural Tires,25417,Asia
+2022-08-17,Synthetic Rubber,31695,South America
+2022-07-10,Agricultural Tires,22066,Europe
+2022-04-09,Agricultural Tires,10416,South America
+2022-08-02,Rubber Sheets,21306,Asia
+2022-08-22,Synthetic Rubber,10484,Asia
+2022-08-03,Agricultural Tires,2259,Asia
+2022-06-03,Agricultural Tires,42449,North America
+2022-06-25,Synthetic Rubber,27338,South America
+2022-03-10,Synthetic Rubber,2982,South America
+2022-02-24,Agricultural Tires,24942,Africa
+2022-04-10,Synthetic Rubber,34219,Africa
+2022-05-27,Agricultural Tires,28465,Africa
+2022-05-09,Agricultural Tires,2579,Asia
+2022-08-17,Rubber Sheets,3217,South America
+2022-09-02,Natural Rubber,28452,Asia
+2022-06-19,Agricultural Tires,21408,North America
+2022-09-28,Rubber Chemicals,42960,Africa
+2022-06-24,Natural Rubber,25361,Asia
+2022-05-08,Natural Rubber,7811,Asia
+2022-08-20,Natural Rubber,28571,North America
+2022-06-04,Rubber Sheets,24070,Europe
+2022-08-06,Agricultural Tires,18949,South America
+2022-04-11,Rubber Sheets,34036,Europe
+2022-08-27,Agricultural Tires,38758,Africa
+2022-05-04,Rubber Sheets,48802,Asia
+2022-02-03,Rubber Sheets,29365,North America
+2022-06-28,Rubber Chemicals,7145,North America
+2022-08-06,Rubber Sheets,38500,South America
+2022-07-14,Synthetic Rubber,27237,Europe
+2022-06-27,Rubber Chemicals,11985,South America
+2022-05-01,Rubber Sheets,39065,Asia
+2022-08-14,Natural Rubber,26022,South America
+2022-06-27,Synthetic Rubber,12842,North America
+2022-06-28,Synthetic Rubber,41306,North America
+2022-05-07,Synthetic Rubber,49270,Africa
+2022-08-18,Rubber Chemicals,13587,Africa
+2022-03-24,Rubber Sheets,38141,Asia
+2022-09-21,Rubber Sheets,34749,Europe
+2022-07-11,Natural Rubber,10593,South America
+2022-07-18,Natural Rubber,47690,Asia
+2022-06-08,Synthetic Rubber,16938,Africa
+2022-03-11,Natural Rubber,40911,South America
+2022-04-23,Rubber Chemicals,26899,Africa
+2022-05-15,Rubber Sheets,20346,South America
+2022-06-09,Synthetic Rubber,16208,Europe
+2022-02-11,Natural Rubber,44539,Asia
+2022-09-08,Rubber Chemicals,45868,South America
+2022-08-04,Rubber Chemicals,11498,North America
+2022-09-05,Natural Rubber,47563,North America
+2022-07-28,Rubber Sheets,31178,South America
+2022-07-01,Natural Rubber,11182,South America
+2022-07-09,Synthetic Rubber,49648,South America
+2022-09-10,Natural Rubber,9019,North America
+2022-03-14,Rubber Chemicals,31980,North America
+2022-05-10,Natural Rubber,20194,South America
+2022-02-07,Rubber Sheets,3800,Africa
+2022-06-24,Agricultural Tires,7222,Africa
+2022-05-01,Natural Rubber,40486,Europe
+2022-05-23,Rubber Sheets,24660,Asia
+2022-04-01,Rubber Sheets,20559,Africa
+2022-05-24,Rubber Chemicals,36322,North America
+2022-02-02,Rubber Sheets,14075,Africa
+2022-06-09,Rubber Sheets,8470,Europe
+2022-03-20,Rubber Sheets,35411,Europe
+2022-06-20,Rubber Sheets,22091,Asia
+2022-08-16,Synthetic Rubber,32321,Africa
+2022-03-09,Synthetic Rubber,10003,North America
+2022-07-10,Rubber Chemicals,48417,North America
+2022-02-09,Natural Rubber,19422,South America
+2022-09-21,Rubber Sheets,12675,North America
+2022-05-10,Natural Rubber,41624,Asia
+2022-06-27,Natural Rubber,21889,Asia
+2022-03-20,Rubber Chemicals,48338,North America
+2022-08-27,Rubber Sheets,1322,North America
+2022-06-11,Rubber Sheets,17827,South America
+2022-06-28,Agricultural Tires,47557,North America
+2022-07-02,Natural Rubber,6650,South America
+2022-03-26,Natural Rubber,4925,South America
+2022-05-31,Synthetic Rubber,16532,North America
+2022-07-11,Agricultural Tires,2698,Europe
+2022-07-02,Synthetic Rubber,20579,Europe
+2022-05-27,Synthetic Rubber,36720,South America
+2022-04-16,Synthetic Rubber,42374,North America
+2022-05-24,Rubber Chemicals,14359,Europe
+2022-08-19,Rubber Chemicals,31919,North America
+2022-07-14,Synthetic Rubber,9205,North America
+2022-07-16,Agricultural Tires,43380,North America
+2022-05-15,Natural Rubber,23736,Africa
+2022-04-25,Agricultural Tires,22919,North America
+2022-09-15,Rubber Sheets,20478,Africa
+2022-05-23,Rubber Chemicals,38109,South America
+2022-09-05,Natural Rubber,15858,Europe
+2022-05-10,Natural Rubber,34677,Europe
+2022-07-03,Rubber Sheets,29878,Europe
+2022-05-04,Rubber Sheets,37834,Europe
+2022-06-26,Synthetic Rubber,11882,Europe
+2022-06-08,Rubber Chemicals,15096,Europe
+2022-05-21,Rubber Chemicals,34072,Europe
+2022-04-23,Agricultural Tires,13721,South America
+2022-08-13,Synthetic Rubber,1779,North America
+2022-03-26,Synthetic Rubber,46460,Asia
+2022-07-13,Synthetic Rubber,7583,Africa
+2022-08-27,Synthetic Rubber,44361,Asia
+2022-08-08,Rubber Chemicals,18271,Asia
+2022-07-19,Rubber Chemicals,30475,North America
+2022-09-16,Synthetic Rubber,46148,North America
+2022-07-11,Agricultural Tires,48785,North America
+2022-04-09,Natural Rubber,19563,Europe
+2022-03-05,Natural Rubber,2606,South America
+2022-06-22,Agricultural Tires,25057,Europe
+2022-02-21,Synthetic Rubber,49354,South America
+2022-03-20,Rubber Chemicals,21107,South America
+2022-06-28,Natural Rubber,38099,Asia
+2022-06-08,Rubber Sheets,29029,Asia
+2022-06-16,Rubber Sheets,36454,South America
+2022-06-15,Agricultural Tires,28356,South America
+2022-08-14,Synthetic Rubber,3073,Europe
+2022-06-25,Natural Rubber,13308,Europe
+2022-06-08,Synthetic Rubber,35867,Asia
+2022-03-05,Natural Rubber,37301,North America
+2022-07-26,Agricultural Tires,41696,South America
+2022-08-23,Agricultural Tires,34572,Europe
+2022-08-06,Rubber Sheets,24252,Asia
+2022-05-26,Synthetic Rubber,18185,Europe
+2022-09-02,Rubber Sheets,41901,South America
+2022-05-30,Synthetic Rubber,11872,South America
+2022-02-22,Rubber Sheets,9496,Africa
+2022-09-26,Rubber Chemicals,16958,North America
+2022-07-08,Rubber Chemicals,32389,Africa
+2022-03-10,Rubber Chemicals,27165,Asia
+2022-09-18,Rubber Chemicals,38743,Europe
+2022-05-20,Natural Rubber,32153,Asia
+2022-03-23,Rubber Chemicals,27157,South America
+2022-08-01,Agricultural Tires,40452,Africa
+2022-02-08,Agricultural Tires,22680,Africa
+2022-02-27,Natural Rubber,32396,Africa
+2022-02-27,Rubber Chemicals,13375,Asia
+2022-09-14,Rubber Chemicals,2122,South America
+2022-02-21,Rubber Chemicals,49256,Europe
+2022-03-02,Rubber Sheets,41309,Europe
+2022-05-08,Synthetic Rubber,17225,Asia
+2022-02-28,Rubber Sheets,41260,Africa
+2022-05-22,Synthetic Rubber,16146,North America
+2022-08-11,Rubber Chemicals,17529,Asia
+2022-09-13,Rubber Chemicals,29902,Asia
+2022-08-16,Rubber Sheets,4763,South America
+2022-04-02,Rubber Sheets,31487,Europe
+2022-03-20,Synthetic Rubber,47328,Asia
+2022-06-27,Agricultural Tires,48424,Asia
+2022-02-04,Synthetic Rubber,9146,Africa
+2022-03-07,Rubber Sheets,28029,Africa
+2022-08-11,Rubber Sheets,12164,North America
+2022-03-21,Natural Rubber,36237,South America
+2022-02-17,Rubber Sheets,36296,North America
+2022-07-22,Natural Rubber,24527,Africa
+2022-09-08,Agricultural Tires,29873,Europe
+2022-07-08,Synthetic Rubber,36897,Africa
+2022-09-09,Synthetic Rubber,21109,South America
+2022-03-18,Natural Rubber,36335,Africa
+2022-05-28,Synthetic Rubber,39209,South America
+2022-02-06,Rubber Sheets,19750,South America
+2022-05-10,Rubber Chemicals,21672,South America
+2022-06-04,Natural Rubber,12055,South America
+2022-09-21,Synthetic Rubber,22374,South America
+2022-03-09,Natural Rubber,13581,Europe
+2022-02-24,Natural Rubber,24563,North America
+2022-05-04,Rubber Chemicals,7319,Asia
+2022-09-29,Rubber Sheets,26212,North America
+2022-03-18,Natural Rubber,25262,South America
+2022-07-31,Synthetic Rubber,11546,Europe
+2022-05-06,Agricultural Tires,31963,Africa
+2022-05-10,Natural Rubber,29269,Europe
+2022-08-07,Natural Rubber,23650,South America
+2022-09-13,Rubber Chemicals,3211,Europe
+2022-05-27,Rubber Sheets,5353,Europe
+2022-08-10,Agricultural Tires,29577,South America
+2022-09-01,Synthetic Rubber,24363,Europe
+2022-07-10,Agricultural Tires,22292,Asia
+2022-09-03,Synthetic Rubber,40983,Asia
+2022-07-11,Rubber Sheets,9442,Europe
+2022-04-08,Synthetic Rubber,48775,Africa
+2022-06-08,Rubber Chemicals,49094,South America
+2022-02-18,Rubber Chemicals,2262,Asia
+2022-02-25,Rubber Chemicals,32487,Africa
+2022-09-22,Rubber Chemicals,16350,Europe
+2022-09-11,Agricultural Tires,12612,Africa
+2022-03-26,Rubber Sheets,24558,North America
+2022-03-30,Synthetic Rubber,45920,Asia
+2022-04-08,Synthetic Rubber,39390,Europe
+2022-05-15,Rubber Chemicals,981,South America
+2022-07-24,Rubber Chemicals,47804,Europe
+2022-02-24,Natural Rubber,33421,South America
+2022-05-25,Rubber Sheets,40885,Europe
+2022-03-04,Agricultural Tires,2024,Africa
+2022-07-25,Synthetic Rubber,35388,Africa
+2022-04-27,Natural Rubber,15548,Africa
+2022-07-01,Natural Rubber,35611,North America
+2022-08-13,Synthetic Rubber,38404,South America
+2022-06-07,Agricultural Tires,34508,Africa
+2022-07-05,Natural Rubber,560,North America
+2022-09-22,Natural Rubber,9630,South America
+2022-06-10,Rubber Sheets,18523,Europe
+2022-09-06,Agricultural Tires,45580,North America
+2022-02-17,Natural Rubber,13850,Asia
+2022-05-15,Agricultural Tires,24854,North America
+2022-07-11,Synthetic Rubber,45686,North America
+2022-06-17,Rubber Chemicals,28645,South America
+2022-03-15,Natural Rubber,34520,Europe
+2022-07-26,Rubber Sheets,21087,Asia
+2022-03-11,Synthetic Rubber,41631,Africa
+2022-09-09,Agricultural Tires,10150,Africa
+2022-07-20,Synthetic Rubber,20433,North America
+2022-02-26,Natural Rubber,21081,South America
